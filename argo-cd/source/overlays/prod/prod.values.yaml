@@ -1,7 +1,5 @@
 tailorbird_web:
   image:
-    "0":
-      tag: dev-v2-v1.0.2-48fe938f3eff959e6d9e4d487b83dd320d474bb2
     pullPolicy: Always
     repository: 838815717361.dkr.ecr.us-east-1.amazonaws.com/tailorbird-web-v2
     tag: release-v2.14.1
