@@ -2,6 +2,6 @@ tailorbird_web:
   image:
     pullPolicy: Always
     repository: 838815717361.dkr.ecr.us-east-1.amazonaws.com/tailorbird-web-v2
-    tag: dev-v2-v1.0.2-41a1446930b379a04d66b2aa6099da7f4658a0c7
+    tag: dev-v2-v1.0.2-b1251839afea5755acde4fe1246355e789f655ff
   nodeSelector:
     tb-node-group-type: services
